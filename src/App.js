@@ -8,6 +8,7 @@ function App() {
         <p className='company-name'>
           Oaknut Studio
         </p>
+        <p>Deploy test</p>
       </header>
     </div>
   );
