@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="oaknut-logo" alt="logo" />
         <p className='company-name'>
-          Oaknut Studio 1
+          Oaknut Studio
         </p>
       </header>
     </div>
